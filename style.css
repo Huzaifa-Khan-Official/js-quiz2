@@ -62,6 +62,10 @@ body>.container {
     margin-bottom: 4vh;
 }
 
+.form-check label {
+    word-break: break-word;
+}
+
 .form-check:hover {
     background-color: #e5dace;
 }
@@ -84,4 +88,12 @@ body>.container {
 
 .copyright p {
     margin-bottom: 0px;
+}
+
+.optionsDiv {
+    padding: 10px;
+}
+
+.question {
+    padding: 10px;
 }
